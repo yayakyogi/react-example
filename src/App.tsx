@@ -1,8 +1,8 @@
 import "./App.css";
-import UseMemo from "./hooks/usememo";
+import MemoComponent from "./components/memo";
 
 function App() {
-  return <UseMemo />;
+  return <MemoComponent />;
 }
 
 export default App;
