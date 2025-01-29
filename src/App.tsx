@@ -1,8 +1,8 @@
 import "./App.css";
-import MemoComponent from "./components/memo";
+import Lazy from "./components/lazy/lazy";
 
 function App() {
-  return <MemoComponent />;
+  return <Lazy />;
 }
 
 export default App;
