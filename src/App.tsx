@@ -1,8 +1,8 @@
 import "./App.css";
-import Lazy from "./components/lazy/lazy";
+import UseCallback from "./components/usecallback";
 
 function App() {
-  return <Lazy />;
+  return <UseCallback />;
 }
 
 export default App;
