@@ -1,8 +1,8 @@
 import "./App.css";
-import UseCallback from "./components/usecallback";
+import UseImperativeHandle from "./components/useImperativeHandle";
 
 function App() {
-  return <UseCallback />;
+  return <UseImperativeHandle />;
 }
 
 export default App;
