@@ -1,8 +1,8 @@
 import "./App.css";
-import UseImperativeHandle from "./components/useImperativeHandle";
+import ExampleUseContext from "./components/useContext/useContext";
 
 function App() {
-  return <UseImperativeHandle />;
+  return <ExampleUseContext />;
 }
 
 export default App;
